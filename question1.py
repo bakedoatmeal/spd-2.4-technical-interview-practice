@@ -24,6 +24,7 @@ class Solution(object):
 # Solution was accepted 
 # Beats 73.10% of users with Python in Runtime
 # Beats 91/83% of users with Python in Memory
+# No need for a second iteration of solution.
 
 # Possible improvements: once we reach the length of the shortest word, we don't need to continue to check the length. We could
 # base the iteration off the min length instead and then append the rest of the longer word.
