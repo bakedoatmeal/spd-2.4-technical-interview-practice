@@ -84,3 +84,5 @@ class Solution(object):
                 divisor = divisor[:-1]
 
         return divisor
+
+# Accepted! This could be further optimized by going backwards rather than forwards. 
